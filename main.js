@@ -46,3 +46,21 @@ benutzer['Bestzeit ever']=428;
 console.log(benutzer);
 
 
+
+//Benutzer Eingabe
+
+// let alter =prompt('Wie alt bist du?');
+// console.log('Du bist', alter, 'Jahre alt');
+// console.log('Über 18?', alter >18);
+// if (alter> 18) {
+//     console.log('Du darfst hinein...');
+// } else {
+//     console.log('Du nicht!');
+// }
+
+for (let i=1; i<=10; i++) {
+    console.log('Wert von i: ', i)
+}
+
+
+
